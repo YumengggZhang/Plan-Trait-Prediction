@@ -18,9 +18,6 @@ Yumeng Zhang, Qiyu Zhang, Zhiyan Tan
 <img src="./model.png" width=500 height=500><img src="./dino.png" width=500 height=500>
 </center>
 
-### Dino backbone and decoder structure
-![dino](./dino.png)
-
 ## Experimental Results
 
 ![backbone](./Backbone.png)
