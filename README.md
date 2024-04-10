@@ -13,9 +13,9 @@ Yumeng Zhang, Qiyu Zhang, Zhiyan Tan
 - Dino-Visual.py is code for image feature extraction visualization of Dino Backbone
 
 ## Model Structure
-<center class="half">
-  <img src="./model.png" width=300 height=400/><img src="./dino.png" width=300 height=400/>
-</center>
+<div align=center>
+  <img src="./model.png" width=300 height=400><img src="./dino.png" width=300 height=400>
+</div>
 
 ## Experimental Results
 
