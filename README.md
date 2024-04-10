@@ -13,8 +13,8 @@ Yumeng Zhang, Qiyu Zhang, Zhiyan Tan
 - Dino-Visual.py is code for image feature extraction visualization of Dino Backbone
 
 ## Model Structure
-![dino](./report image/dino.png)
-![model](./report image/model.png)
+![dino](./dino.png)
+![model](./model.png)
 
 ## Experimental Results
 
