@@ -19,7 +19,7 @@ Yumeng Zhang, Qiyu Zhang, Zhiyan Tan
 
 ## Experimental Results
 <div align=center>
-  <img src="./Backbone.png" width=500 height=160>
+  <img src="./Backbone.png" width=500 height=200>
 </div>
 
 ## Citation
