@@ -6,11 +6,11 @@ Yumeng Zhang, Qiyu Zhang, Zhiyan Tan
 
 ## Code
 
-- (FINAL)main_yumeng_Dino.ipynb is the main notebook for model building, training, validation
+- *(FINAL)main_yumeng_Dino.ipynb* is the main notebook for model building, training, validation
 
-- DataAnalysis_EDA.ipynb is the code for Data Processing, Analysis and Visualization
+- *DataAnalysis_EDA.ipynb* is the code for Data Processing, Analysis and Visualization
 
-- Dino-Visual.py is code for image feature extraction visualization of Dino Backbone
+- *Dino-Visual.py* is code for image feature extraction visualization of Dino Backbone
 
 ## Model Structure
 <div align=center>
