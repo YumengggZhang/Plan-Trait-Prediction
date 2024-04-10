@@ -14,8 +14,7 @@ Yumeng Zhang, Qiyu Zhang, Zhiyan Tan
 
 ## Model Structure
 ### Overall model structure
-![model](./model.png)
-<img src="./model.png" width=300 height=400>
+<img src="./model.png" width=400 height=500>
 
 ### Dino backbone and decoder structure
 ![dino](./dino.png)
