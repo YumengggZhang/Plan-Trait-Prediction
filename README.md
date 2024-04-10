@@ -4,7 +4,6 @@ CS 273P: Machine Learning and Data Mining  | Winter 2024
 
 Yumeng Zhang, Qiyu Zhang, Zhiyan Tan
 
-## Introduction
 <div align=center>
   <img src="./Plants.png">
 </div>
