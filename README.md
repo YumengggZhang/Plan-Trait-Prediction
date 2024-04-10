@@ -18,9 +18,7 @@ Yumeng Zhang, Qiyu Zhang, Zhiyan Tan
 </div>
 
 ## Experimental Results
-
 ![backbone](./Backbone.png)
-![resnet](./Resnet.png)
 
 
 ## Citation
