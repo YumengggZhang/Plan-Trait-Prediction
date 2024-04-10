@@ -14,7 +14,7 @@ Yumeng Zhang, Qiyu Zhang, Zhiyan Tan
 
 ## Model Structure
 <div align=center>
-  <img src="./model.png" width=550 height=600><img src="./dino.png" width=550 height=600>
+  <img src="./model.png" width=500 height=600><img src="./dino.png" width=500 height=600>
 </div>
 
 ## Experimental Results
