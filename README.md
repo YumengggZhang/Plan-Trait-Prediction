@@ -24,6 +24,4 @@ Yumeng Zhang, Qiyu Zhang, Zhiyan Tan
 
 ## Citation
 
-[1] [https://github.com/valeoai/BF3S](https://github.com/valeoai/BF3S)
-
-[2] [https://github.com/oscarknagg/few-shot](https://github.com/oscarknagg/few-shot)
+[1] [https://api.semanticscholar.org/CorpusID:206594692)
